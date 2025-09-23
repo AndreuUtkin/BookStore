@@ -1,0 +1,6 @@
+@СОСapi_HostAddress = http://localhost:5295
+
+GET {{СОСapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
